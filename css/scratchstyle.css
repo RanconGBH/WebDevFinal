@@ -1,0 +1,30 @@
+body {
+    background-image: url(../assets/img/space.jpg);
+    height:auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+.title {
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.header {
+    color: white;
+    font-family: 'Courier New', Courier, monospace
+}
+.text {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.egg {
+    height: 20px;
+    transform: scale(0.15);
+}
